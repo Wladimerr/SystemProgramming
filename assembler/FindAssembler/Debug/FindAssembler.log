@@ -1,0 +1,5 @@
+﻿  FindAssembler.cpp
+F:\Учёба\3 курс\Системное программирование\github\FindAssembler\FindAssembler.cpp(17): warning C4405: str: идентификатор является зарезервированным словом
+F:\Учёба\3 курс\Системное программирование\github\FindAssembler\FindAssembler.cpp(53): warning C4405: str: идентификатор является зарезервированным словом
+F:\Учёба\3 курс\Системное программирование\github\FindAssembler\FindAssembler.cpp(9,9): warning C4101: counters: неиспользованная локальная переменная
+  FindAssembler.vcxproj -> F:\Учёба\3 курс\Системное программирование\github\FindAssembler\Debug\FindAssembler.exe

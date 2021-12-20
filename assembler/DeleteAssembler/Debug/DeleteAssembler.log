@@ -1,0 +1,8 @@
+﻿  DeleteAssembler.cpp
+F:\Учёба\3 курс\Системное программирование\github\DeleteAssembler\DeleteAssembler.cpp(21): warning C4405: str: идентификатор является зарезервированным словом
+F:\Учёба\3 курс\Системное программирование\github\DeleteAssembler\DeleteAssembler.cpp(88): warning C4405: str: идентификатор является зарезервированным словом
+F:\Учёба\3 курс\Системное программирование\github\DeleteAssembler\DeleteAssembler.cpp(119): warning C4405: str: идентификатор является зарезервированным словом
+F:\Учёба\3 курс\Системное программирование\github\DeleteAssembler\DeleteAssembler.cpp(162): warning C4405: str: идентификатор является зарезервированным словом
+F:\Учёба\3 курс\Системное программирование\github\DeleteAssembler\DeleteAssembler.cpp(100,13): warning C4102: StartDelete: неиспользованная метка
+F:\Учёба\3 курс\Системное программирование\github\DeleteAssembler\DeleteAssembler.cpp(110,1): warning C4102: FirstBiggerLength: неиспользованная метка
+  DeleteAssembler.vcxproj -> F:\Учёба\3 курс\Системное программирование\github\DeleteAssembler\Debug\DeleteAssembler.exe

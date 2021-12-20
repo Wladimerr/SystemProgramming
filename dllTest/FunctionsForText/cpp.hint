@@ -1,0 +1,2 @@
+﻿#define FUNCTIONSFORTEXT_API __declspec(dllexport)
+#define FUNCTIONSFORTEXT_API __declspec(dllimport)

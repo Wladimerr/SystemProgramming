@@ -1,0 +1,2 @@
+F:\Учёба\3 курс\Системное программирование\библиотэки\DynamicLibTest\Debug\DynamicLibTest.exe
+F:\Учёба\3 курс\dllTest\DynamicLibTest\Debug\DynamicLibTest.exe

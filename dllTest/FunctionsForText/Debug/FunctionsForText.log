@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  FunctionsForText.cpp
+  Создание кода...
+C:\Users\Maxim\Documents\Учёба\C++\DLL\FunctionsForText\FunctionsForText.cpp(46): warning C4172: возвращение адреса локальной или временной переменной : substr
+C:\Users\Maxim\Documents\Учёба\C++\DLL\FunctionsForText\FunctionsForText.cpp(25): warning C4172: возвращение адреса локальной или временной переменной : concatenation
+     Создается библиотека C:\Users\Maxim\Documents\Учёба\C++\DLL\FunctionsForText\Debug\FunctionsForText.lib и объект C:\Users\Maxim\Documents\Учёба\C++\DLL\FunctionsForText\Debug\FunctionsForText.exp
+  FunctionsForText.vcxproj -> C:\Users\Maxim\Documents\Учёба\C++\DLL\FunctionsForText\Debug\FunctionsForText.dll
